@@ -2,8 +2,11 @@
 Technologies Used:
 
 Excel: Data storage, basic data manipulation.
+
 SQL: Data extraction, transformation, and aggregation.
+
 Power BI: Data visualization and dashboard creation.
+
 
 Data Collection (Excel):
 
